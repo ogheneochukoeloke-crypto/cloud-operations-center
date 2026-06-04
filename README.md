@@ -1,3 +1,6 @@
+<img width="3837" height="2062" alt="Screenshot 2026-06-04 172848" src="https://github.com/user-attachments/assets/c0c634b3-24a6-41fb-a99f-04699a4febdd" />
+<img width="3830" height="2055" alt="Screenshot 2026-06-04 172907" src="https://github.com/user-attachments/assets/55884baf-7604-40c1-9693-aa9e790ea7e2" />
+<img width="3300" height="1795" alt="Screenshot 2026-06-04 172947" src="https://github.com/user-attachments/assets/3695693e-ac65-49e5-8068-4c12949dd51f" />
 # Cloud Operations Center
 
 An automated cloud monitoring platform built using AWS, n8n, Google Sheets, Gmail, and HTTP-based service monitoring.
