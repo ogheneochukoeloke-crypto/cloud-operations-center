@@ -1,29 +1,43 @@
 # Cloud Operations Center
 
-Automated cloud monitoring platform built using:
+An automated cloud monitoring platform built using AWS, n8n, Google Sheets, Gmail, and HTTP-based service monitoring.
 
-- AWS
-- n8n
-- Google Sheets
-- Gmail
+## Overview
+
+This project continuously monitors web services, detects outages, logs operational data, and sends automated alerts when issues occur.
 
 ## Features
 
-- Website uptime monitoring
-- Incident detection
-- Email alerting
-- Operational logging
-- Dashboard analytics
+* Automated website uptime monitoring
+* Incident detection and alerting
+* Email notifications for service failures
+* Google Sheets operational logging
+* Multi-service monitoring
+* Dashboard analytics and uptime tracking
 
-## Technologies
+## Technology Stack
 
-- AWS
-- n8n
-- HTTP Requests
-- Google Sheets API
-- Gmail API
+* AWS
+* n8n
+* Google Sheets API
+* Gmail API
+* HTTP Requests
+* Automation Workflows
 
-## Status
+## Workflow
+
+1. Scheduled monitoring checks run automatically.
+2. HTTP requests verify service availability.
+3. Successful checks are logged.
+4. Failed checks trigger email alerts.
+5. Results are stored for dashboard reporting and uptime analysis.
+
+## Future Improvements
+
+* AI-generated incident summaries
+* Advanced dashboard visualizations
+* Expanded multi-service monitoring
+* Historical uptime reporting
 
 Active development
 
